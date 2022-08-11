@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Irishi-R
+- 👋 Hi, I’m @Irishi
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning R Programming for Data Science
 - 💞️ I’m looking to collaborate on data science projects in R
